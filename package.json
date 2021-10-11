@@ -12,7 +12,7 @@
   "dependencies": {
     "@zilliqa-js/zilliqa": "^0.8.3",
     "hash.js": "^1.1.7",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "tslib": "^1.9.3"
   },
   "jest": {
